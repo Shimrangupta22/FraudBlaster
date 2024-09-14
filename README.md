@@ -9,7 +9,7 @@ This project focuses on detecting fraudulent transactions using machine learning
 - Scikit-learn
 - XGBoost
 - Jupyter Notebook
-- 
+  
 ### Installation
 Install the required libraries:
 ```bash
