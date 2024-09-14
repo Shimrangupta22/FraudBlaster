@@ -2,14 +2,6 @@
 
 This project focuses on detecting fraudulent transactions using machine learning. We clean data, handle outliers, and build a predictive model to identify fraud patterns. Metrics like precision and recall evaluate the model, and the project provides recommendations for proactive fraud prevention.
 
-### Technologies Used
-- Python 3.x
-- Pandas, NumPy
-- Seaborn, Matplotlib
-- Scikit-learn
-- XGBoost
-- Jupyter Notebook
-
 ### Project Structure
 - `data/`: Contains the dataset.
 - `notebooks/`: Jupyter notebooks for data analysis and model building.
