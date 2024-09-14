@@ -1,4 +1,4 @@
-# Fraud Detection Model
+# FraudBlaster: Eliminating Fraudulent Transactions with Precision
 
 This project focuses on detecting fraudulent transactions using machine learning. We clean data, handle outliers, and build a predictive model to identify fraud patterns. Metrics like precision and recall evaluate the model, and the project provides recommendations for proactive fraud prevention.
 
