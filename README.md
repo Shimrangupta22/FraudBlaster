@@ -1,6 +1,3 @@
-Here is how you should write the `README.md` file with everything integrated, including the `Data Cleaning` section and other details:
-
-```markdown
 # Fraud Detection Model
 
 This project focuses on detecting fraudulent transactions using machine learning. We clean data, handle outliers, and build a predictive model to identify fraud patterns. Metrics like precision and recall evaluate the model, and the project provides recommendations for proactive fraud prevention.
