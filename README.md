@@ -103,6 +103,3 @@ print(classification_report(y_test, y_pred))
 ### Prevention and Evaluation
 - Recommend implementing fraud detection measures and updating infrastructure.
 - Monitor performance using metrics like precision, recall, and F1-score. Track improvements and adjust strategies as needed.
-```
-
-You can copy and paste this into your `README.md` file. This format integrates all the information in a continuous flow, addressing all your needs.
